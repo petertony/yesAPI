@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
+"""
 @author:chenzhimin
 @software:APITest
 @file:setting.py
 @time:2020/4/3  10:45
 @desc
-'''
+"""
 import os
 import time
 
