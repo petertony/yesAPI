@@ -10,7 +10,7 @@
 import unittest
 from BeautifulReport import BeautifulReport
 from model.setting import *
-import time
+
 
 
 
